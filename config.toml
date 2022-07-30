@@ -1,4 +1,29 @@
 baseURL = 'http://filippoguarda.com/'
 languageCode = 'en-us'
 title = 'Filippo Guarda'
-sectionPagesMenu = "main"
+theme = 'tale'
+sectionPagesMenu = 'main'
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    title = "About"
+    url = "/about/"
+    weight = 1
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    title = "Posts"
+    url = "/posts/"
+    weight = 2
+  [[menu.main]]
+    identifier = "writings"
+    name = "Writings"
+    title = "Writings"
+    url = "/writings/"
+    weight = 3
+[markup]
+  [markup.tableOfContents]
+    endLevel = 3
+    ordered = false
+    startLevel = 1

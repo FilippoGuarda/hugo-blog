@@ -1,11 +1,11 @@
 ---
 title: "First"
-date: 2022-07-30T19:24:25+02:00
-draft: true
-toc: true
+date: 2022-07-30T20:42:38+02:00
+draft: false
+summary : "first writing of the bunch"
+toc : true
 ---
 
-#This is a first post to test hugo
+# First writing of this website
 
-it's not much, but it's an honest post.
-(i'm testing the table of contents)
+it's not much, but it's an honest post
