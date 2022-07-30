@@ -8,22 +8,22 @@
   --grey-3: #f0f0f0;
   --grey-4: #f9f9f9;
   --white: #fff;
-  --blue: #4a9ae1;
+  --blue: #2b8888;
   --shadow-color: rgba(0, 0, 0, .2);
   --code-color: #bf616a;
   --code-filter: ; }
 
 :root:not(.light) {
-  --default-color: #888;
+  --default-color: #999;
   --background-color: #000;
-  --default-shade: #989898;
-  --default-tint: #555;
+  --default-shade: #aaa;
+  --default-tint: #666;
   --grey-1: #606060;
   --grey-2: #404040;
   --grey-3: #202020;
   --grey-4: #181818;
   --white: #fff;
-  --blue: #1d6baf;
+  --blue: #10a099;
   --shadow-color: rgba(0, 0, 0, .2);
   --code-color: #a3434c;
   --code-filter: contrast(0.4) brightness(0.9); }
@@ -154,9 +154,9 @@ pre code > span {
   .post img + em {
     color: var(--default-tint);
     display: block;
-    font-family: "Helvetica Neue", "Segoe UI", Helvetica, Arial, sans-serif;
+    font-family: Palatino, "Palatino LT STD", "Palatino Linotype", "Book Antiqua", "Georgia", serif;
     font-size: 0.9rem;
-    font-style: normal;
+    font-style: italic;
     text-align: center; }
   .post img.emoji {
     display: inline-block;
