@@ -27,3 +27,5 @@ sectionPagesMenu = 'main'
     endLevel = 3
     ordered = false
     startLevel = 1
+[author]
+  name = "Filippo Guarda"

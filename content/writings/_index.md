@@ -1,5 +1,7 @@
 ---
-toc : true
+title: Writings
+date: 2022-07-30T20:42:38+02:00
+draft: false
 ---
 
-# this is the page of the writings, it is a simple one
+This section is dedicated to more literary-inspired writings, mostly fiction, that I may publish now and then.  
