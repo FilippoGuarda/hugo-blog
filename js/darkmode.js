@@ -16,8 +16,9 @@ function storedToBool(s) {
 }
 
 function ensureScheme(desiredScheme) {
-    let osScheme = mediaQuery.matches;
-
+    // set theme same as os let osScheme = mediaQuery.matches;
+    // set theme as light by default 
+    let osScheme = false;
     // Only store the preference if it's not the same as the OS one.
     if (desiredScheme === osScheme) {
 	localStorage.removeItem(LOCALSTORAGE_KEY);
