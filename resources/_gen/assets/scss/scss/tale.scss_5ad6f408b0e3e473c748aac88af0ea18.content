@@ -17,7 +17,7 @@
   --default-color: #bbb;
   --background-color: #000;
   --default-shade: #ccc;
-  --default-tint: #888;
+  --default-tint: #999;
   --grey-1: #606060;
   --grey-2: #404040;
   --grey-3: #202020;
