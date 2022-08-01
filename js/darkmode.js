@@ -2,7 +2,7 @@
 
 const LOCALSTORAGE_KEY = "color-scheme";
 const LIGHT_CLASS = "light";
-let mediaQuery = window.matchMedia("(prefers-color-scheme: dark)");
+let mediaQuery = window.matchMedia("(prefers-color-scheme: light)");
 
 // true means "dark scheme", false means "light scheme". Ugly, bit simple.
 function storedToBool(s) {
