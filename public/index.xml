@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Filippo Guarda</title>
+    <title>Welcome on Filippo Guarda</title>
     <link>http://filippoguarda.com/</link>
-    <description>Recent content on Filippo Guarda</description>
+    <description>Recent content in Welcome on Filippo Guarda</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 30 Jul 2022 23:15:07 +0200</lastBuildDate><atom:link href="http://filippoguarda.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 30 Jul 2022 20:42:38 +0200</lastBuildDate><atom:link href="http://filippoguarda.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Still_nothing</title>
+      <link>http://filippoguarda.com/posts/still_nothing/</link>
+      <pubDate>Mon, 01 Aug 2022 02:24:40 +0200</pubDate>
+      
+      <guid>http://filippoguarda.com/posts/still_nothing/</guid>
+      <description>Maybe I&amp;rsquo;m too lazy, maybe I&amp;rsquo;m too overburdened with work, but this section is still empty.</description>
+    </item>
+    
     <item>
       <title>Second</title>
       <link>http://filippoguarda.com/writings/second/</link>
@@ -17,20 +26,11 @@
     </item>
     
     <item>
-      <title>About</title>
-      <link>http://filippoguarda.com/about/about/</link>
-      <pubDate>Sat, 30 Jul 2022 22:44:41 +0200</pubDate>
-      
-      <guid>http://filippoguarda.com/about/about/</guid>
-      <description>this is the about page it is an about page</description>
-    </item>
-    
-    <item>
       <title>First</title>
-      <link>http://filippoguarda.com/writings/first/</link>
+      <link>http://filippoguarda.com/writings/fist_post/first/</link>
       <pubDate>Sat, 30 Jul 2022 20:42:38 +0200</pubDate>
       
-      <guid>http://filippoguarda.com/writings/first/</guid>
+      <guid>http://filippoguarda.com/writings/fist_post/first/</guid>
       <description>first writing of the bunch</description>
     </item>
     

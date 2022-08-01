@@ -1,20 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>About on Filippo Guarda</title>
+    <title>About Me on Filippo Guarda</title>
     <link>http://filippoguarda.com/about/</link>
-    <description>Recent content in About on Filippo Guarda</description>
+    <description>Recent content in About Me on Filippo Guarda</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 30 Jul 2022 22:44:41 +0200</lastBuildDate><atom:link href="http://filippoguarda.com/about/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About</title>
-      <link>http://filippoguarda.com/about/about/</link>
-      <pubDate>Sat, 30 Jul 2022 22:44:41 +0200</pubDate>
-      
-      <guid>http://filippoguarda.com/about/about/</guid>
-      <description>this is the about page it is an about page</description>
-    </item>
-    
   </channel>
 </rss>
