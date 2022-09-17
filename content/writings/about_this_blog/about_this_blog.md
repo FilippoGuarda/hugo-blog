@@ -65,7 +65,7 @@ My advice: stick with **.com** if you can.
 Before deciding to build a blog, I was fascinated by [LOW←TECH MAGAZINE](https://solar.lowtechmagazine.com/about.html) method of reducing the image size without reducing actual dimensions using dithering. Yes, there are a lot of more modern ways to reduce image size without losses, but I think this method adds a lot to the aesthetics of the blog. 
 Just look at this.  
 
-![bear sitting at table](/posts/about_this_blog/bear-at-table.png "bear sitting at table (how cute!)") 
+![bear sitting at table](/writings/about_this_blog/bear-at-table.png "bear sitting at table (how cute!)") 
 
 There are different ways of generating a dithered image, it really depends on your requirements. You can use a browser generator like [this one](https://doodad.dev/dither-me-this/) or [this other one](https://ditherit.com/); but if you need to deeply tweak settings in order to get something more tailored, I recommend a command line tool like [didder](https://github.com/makeworld-the-better-one/didder).
 
