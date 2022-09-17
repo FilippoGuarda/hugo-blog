@@ -72,7 +72,8 @@ There are different ways of generating a dithered image, it really depends on yo
 ## Going forward
 
 I plan on posting occasionally various content that ranges from short shitposts to more serious stuff on various kind of topics. At the same time this blog will help me keep track of stuff I liked, stuff I learned and finally, my writing proficiency.
-If you read this and want to contact me, you can send me an e-mail.  
+
+If you liked this post, have some comments to make or anything in-between, you can [contact me]({{< ref "contact me" >}} "contact me").
 
 
 
