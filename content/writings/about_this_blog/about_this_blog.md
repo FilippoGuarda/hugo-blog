@@ -1,8 +1,11 @@
 ---
 title: "About this blog"
 date: 2022-09-12T14:26:30+02:00
-draft: true
+draft: false
+summary: "Why I created this blog, and how"
 ---
+
+## Why I decided to make this blog
 
 I started working on this blog in August 2022, after a particularly underwhelming exam session. 
 Even if I was on holiday, the feeling of guilt resulting from not being able to learn my classes' study topics in a timely manner made it impossible to truly relax. Whatever I did, it felt like time wasted on unproductive things.  
@@ -32,7 +35,7 @@ Generating a static website solves an incredible amount of problems that a newbi
 2) A static website is **inherently more secure**: no backend and no server-side processing means almost no point of contact for attacks. Did I say no database?
 3) A static website is **faster**: when you visit this website, all the server has to do is serve you some files, no computing time.  
 
-**But most importantly**
+_But most importantly_
 
 4) It's **cheap a.f.**: At the moment I can host the entirety of the website on GitHub pages at the very convenient price of *free*, and while I bought the domain, keeping the default one was also an option. 
 
@@ -51,5 +54,27 @@ In my case I used the wonderful [tale](https://github.com/EmielH/tale-hugo) them
 As stated previously I opted for hosting my blog on GitHub Pages, as it has a _lot_ of advantages compared to other hosting providers like amazon aws or google.  
 
 First of all, hosting a website on Pages is free, that will always be a plus for a student without budget.  
-Secondly, by enabling Actions on the repository that holds the blog file, it is possible to create a separate branch which gets updated at every push; modifying the content of the served website almost instantly and without any further command from the user.
+Secondly, by enabling [Actions](https://gohugo.io/hosting-and-deployment/hosting-on-github/) on the repository that holds the blog file, it is possible to create a separate branch which gets updated at every push; modifying the content of the served website almost instantly and without any further command from the user.
+
+I paired the Pages blog with my personal domain, after making sure that domain privacy was enabled. For those that are unaware, all personal details given while registering a domain are available in a whois registrar; you should make sure that your provider and specific extension offer domain privacy protection.  
+(some extensions, the ones of most european countries included, make the sharing of personal information mandatory by law)  
+My advice: stick with **.com** if you can. 
+
+### Why the dotted images? 
+
+Before deciding to build a blog, I was fascinated by [LOW←TECH MAGAZINE](https://solar.lowtechmagazine.com/about.html) method of reducing the image size without reducing actual dimensions using dithering. Yes, there are a lot of more modern ways to reduce image size without losses, but I think this method adds a lot to the aesthetics of the blog. 
+Just look at this.  
+
+![bear sitting at table](/posts/about_this_blog/bear-at-table.png "bear sitting at table (how cute!)") 
+
+There are different ways of generating a dithered image, it really depends on your requirements. You can use a browser generator like [this one](https://doodad.dev/dither-me-this/) or [this other one](https://ditherit.com/); but if you need to deeply tweak settings in order to get something more tailored, I recommend a command line tool like [didder](https://github.com/makeworld-the-better-one/didder).
+
+## Going forward
+
+I plan on posting occasionally various content that ranges from short shitposts to more serious stuff on various kind of topics. At the same time this blog will help me keep track of stuff I liked, stuff I learned and finally, my writing proficiency.
+If you read this and want to contact me, you can send me an e-mail.  
+
+
+
+
 
