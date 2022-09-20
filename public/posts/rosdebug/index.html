@@ -6,7 +6,7 @@
 		<meta charset="UTF-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-		<title>Still_nothing &middot; Filippo Guarda</title>
+		<title>So you are having problem with ROS &middot; Filippo Guarda</title>
 
 		
 		<link rel="stylesheet" href="/css/style.css">
@@ -85,23 +85,36 @@
     <span>Written</span>
     
         
-        <span>on&nbsp;</span><time datetime="2022-08-01 02:24:40 &#43;0200 CEST">August 1, 2022</time>
+        <span>on&nbsp;</span><time datetime="2022-09-20 15:56:25 &#43;0200 CEST">September 20, 2022</time>
 </div>
 
-		<h1 class="post-title">Still_nothing</h1>
+		<h1 class="post-title">So you are having problem with ROS</h1>
 <div class="post-line"></div>
 
 		
 
-		<p>Maybe I&rsquo;m too lazy, maybe I&rsquo;m too overburdened with work, but this section is still empty.</p>
+		<p>Do not worry, we all have been there.</p>
+<p>Maybe the command <code>roslaunch</code> + TAB is not listing your custom <code>.launch</code> file?<br>
+Maybe it&rsquo;s <code>rostopic list</code> that still, after checking ten times that the <code>.msg</code> definitions are correct, refuses to acknowledge that there are new types of messages available.<br>
+You can&rsquo;t <code>rosrun</code> your node, but the cmake configuration file of your package is there, as well as the <code>.xml</code> one.
+Catkin also builds without errors so <em>why the hell</em> is this not working? It can drive a man crazy.</p>
+<h2 id="the-command-to-rule-them-all">The command to rule them all</h2>
+<blockquote>
+<p><strong><code>$ source devel/setup.bash</code></strong></p>
+</blockquote>
+<p>You forgot about it, be honest; it may not work <em>all</em> the time, but it comes pretty close to that.</p>
+<p>You can also choose the nuclear option and completely delete the <code>build</code> and <code>devel</code> folders, then <code>$ catkin_make</code> again. This is often solves the problem in case you transfered one package from one machine to another by saving the whole workspace.</p>
+<p>As always:</p>
+<blockquote>
+<p>remember to <strong><code>$ source devel/setup.bash</code></strong></p>
+</blockquote>
 
 
 		
 	</div>
 
 	<div class="pagination">
-		<a href="/writings/first_post/first/" class="left arrow">&#8592;</a>
-		<a href="/writings/about_this_blog/about_this_blog/" class="right arrow">&#8594;</a>
+		<a href="/writings/about_this_blog/about_this_blog/" class="left arrow">&#8592;</a>
 
 		<a href="#" class="top">Top</a>
 	</div>
@@ -111,7 +124,7 @@
         		<footer>
 			
 			<span>
-			&copy; <time datetime="2022-09-20 16:20:12.458731664 &#43;0200 CEST m=&#43;0.059518870">2022</time> Filippo Guarda. Made with <a href='https://gohugo.io'>Hugo</a> using a modified version of the <a href='https://github.com/EmielH/tale-hugo/'>Tale</a> theme.
+			&copy; <time datetime="2022-09-20 16:20:12.458756726 &#43;0200 CEST m=&#43;0.059543926">2022</time> Filippo Guarda. Made with <a href='https://gohugo.io'>Hugo</a> using a modified version of the <a href='https://github.com/EmielH/tale-hugo/'>Tale</a> theme.
 			</span>
 		</footer>
 

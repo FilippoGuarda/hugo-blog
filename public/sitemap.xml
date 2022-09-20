@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://filippoguarda.com/posts/rosdebug/</loc>
+    <lastmod>2022-09-20T15:56:25+02:00</lastmod>
+  </url><url>
     <loc>http://filippoguarda.com/writings/about_this_blog/about_this_blog/</loc>
     <lastmod>2022-09-12T14:26:30+02:00</lastmod>
   </url><url>
@@ -10,9 +13,6 @@
   </url><url>
     <loc>http://filippoguarda.com/posts/still_nothing/</loc>
     <lastmod>2022-08-01T02:24:40+02:00</lastmod>
-  </url><url>
-    <loc>http://filippoguarda.com/writings/second/</loc>
-    <lastmod>2022-07-30T23:15:07+02:00</lastmod>
   </url><url>
     <loc>http://filippoguarda.com/about/</loc>
     <lastmod>2022-07-30T22:44:41+02:00</lastmod>
