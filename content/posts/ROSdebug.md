@@ -8,7 +8,7 @@ Do not worry, we all have been there.
 
 Maybe the command `roslaunch` + TAB is not listing your custom `.launch` file?  
 Maybe it's `rostopic list` that still, after checking ten times that the `.msg` definitions are correct, refuses to acknowledge that there are new types of messages available.  
-You can't `rosrun` your node, but the cmake configuration file of your package is there, as well as the `.xml` one.  
+You can't `rosrun` your node, but the cmake configuration of your package is there, as well as the `.xml` file.  
 Catkin also builds without errors so _why the hell_ is this not working? 
 
 It can drive a man crazy, but I might have the solution of your problems:
