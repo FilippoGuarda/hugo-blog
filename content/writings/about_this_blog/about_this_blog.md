@@ -7,11 +7,6 @@ summary: "Why I created this blog, and how"
 
 ## Why I decided to make this blog
 
-I started working on this blog in August 2022, after a particularly underwhelming exam session. 
-Even if I was on holiday, the feeling of guilt resulting from not being able to learn my classes' study topics in a timely manner made it impossible to truly relax. Whatever I did, it felt like time wasted on unproductive things.  
-I needed to demonstrate to myself that I could be productive, that I wasn't a slob and that I was able to learn things quickly enough.  
-I was also contemplating the idea of making a personal website. 
-
 The web from the 90's always fascinated me, even if I could not experience it first person (I was still sucking my thumb at the time). 
 I love the idea of a patchwork of cobbled together personal websites, it seems like a modern-day wild west (I am aware of the dark web, but that's not as accessible and I'd rather stay out of any combination-of-letters-agency's list) compared to the modern monoliths that dominate online traffic.  
 The indie web was a cool thing to think about, something that I wanted to be a part of. If not for the sheer commodity of directly owning my content, just for the flair of it. 
