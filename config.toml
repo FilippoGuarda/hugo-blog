@@ -1,8 +1,6 @@
 baseURL = 'http://filippoguarda.com/'
 copyright = 'This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.'
 languageCode = 'en-us'
-[author]
-  name = 'Filippo Guarda'
 title = 'Filippo Guarda'
 theme = 'tale'
 sectionPagesMenu = 'main'
