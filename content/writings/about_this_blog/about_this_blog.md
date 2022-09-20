@@ -2,6 +2,8 @@
 title: "About this blog"
 date: 2022-09-12T14:26:30+02:00
 draft: false
+toc: true
+tags: ['HUGO', 'projects']
 summary: "Why I created this blog, and how"
 ---
 
