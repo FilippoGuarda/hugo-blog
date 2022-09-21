@@ -499,14 +499,24 @@ footer {
     color: var(--default-color);
     font-size: .8rem; }
 
-aside.toc {
-  position: sticky;
-  top: 0;
-  max-width: 30%;
-  float: left;
-  height: 0;
-  overflow: display;
-  z-index: 1; }
+@media screen and (min-width: 400px) {
+  aside.toc {
+    position: sticky;
+    top: 0;
+    max-width: 80%;
+    float: left;
+    height: 0;
+    overflow: display;
+    z-index: 1; } }
+
+@media screen and (max-width: 400px) {
+  aside.toc {
+    position: sticky;
+    top: 0;
+    max-width: 80%;
+    float: left;
+    overflow: display;
+    z-index: 1; } }
 
 #tocTitle {
   width: fit-content; }
