@@ -5,3 +5,5 @@ draft: false
 ---
 
 ## DISCLAIMER: the following posts represent the near-autistic ramblings of an opinionated engineer, reader beware.
+
+## UPDATE: apparently it was not autism, it was ADHD all this time.

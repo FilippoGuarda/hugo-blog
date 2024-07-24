@@ -3,11 +3,11 @@ title: "About Me"
 date: 2022-07-30T22:44:41+02:00
 draft: false
 ---
-![](/about/profile_picture_circle.png)
+![author's picture](/about/dither_profile.png)
 
-I am Filippo Guarda, an automation engineer with a passion for robotics, stand-up comedy and outdoor activities.
+I am Filippo Guarda, an automation engineer and a PhD student in systems engineering with a passion for robotics, stand-up comedy and outdoor activities.
 
-In my academic and working life I acquired experience with several tools, programming languages and frameworks, some of these are: **ROS/ROS2**, **Python**, **C++** and **Automation Studio**.  
+In my academic and working life I acquired experience with several tools, programming languages and frameworks, some of these are: **ROS/ROS2**, **Python**, **C++** and **Open3D**.  
 
-While in the process of learning **Go**, I discovered Hugo: a golang-based static website generator. I felt the urge to create a personal blog.  
-Here it is, have fun.  
+I made this little static blog to share some of my thoughts and to present myself and my work.
+Have fun!.

@@ -18,15 +18,15 @@ sectionPagesMenu = 'main'
     url = "/posts/"
     weight = 2
   [[menu.main]]
-    identifier = "writings"
-    name = "Writings"
-    title = "Writings"
-    url = "/writings/"
+    identifier = "writing"
+    name = "Writing"
+    title = "Writing"
+    url = "/writing/"
     weight = 3
 [markup]
   [markup.tableOfContents]
     endLevel = 3
     ordered = false
     startLevel = 1
-[author]
+[params.author]
   name = "Filippo Guarda"

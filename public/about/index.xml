@@ -4,9 +4,10 @@
     <title>About Me on Filippo Guarda</title>
     <link>http://filippoguarda.com/about/</link>
     <description>Recent content in About Me on Filippo Guarda</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</copyright>
-    <lastBuildDate>Sat, 30 Jul 2022 22:44:41 +0200</lastBuildDate><atom:link href="http://filippoguarda.com/about/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://filippoguarda.com/about/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

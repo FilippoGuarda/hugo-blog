@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="en-us">
+    <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+		
+		<title>About this blog &middot; Filippo Guarda</title>
+
+		
+		<link rel="stylesheet" href="/css/style.css">
+		<link rel="stylesheet" href="/css/fonts.css">
+		
+		<link rel="icon" href="/favicon.ico"/>
+		<link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+		<link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+
+		
+		<link href="" rel="alternate" type="application/rss+xml" title="Filippo Guarda" />
+
+		<script src="/js/darkmode.js"></script>
+	</head>
+
+    <body>
+        		<nav class="nav">
+			<div class="nav-container">
+				<a href="/">
+					
+						<h2 class="nav-title">Filippo Guarda</h2>
+					
+				</a>
+				<ul>
+    
+    
+        <li>
+            <a href="/about/">
+                
+                <span>About</span>
+                
+            </a>
+        </li>
+    
+        <li>
+            <a href="/posts/">
+                
+                <span>Posts</span>
+                
+            </a>
+        </li>
+    
+        <li>
+            <a href="/thoughts/">
+                
+                <span>Random thoughts</span>
+                
+            </a>
+        </li>
+    
+        <li>
+            <a href="/contact-me/">
+                
+                <span>Contacts</span>
+                
+            </a>
+        </li>
+    
+</ul>
+			</div>
+		</nav>
+
+        <div id="darkModeToggle" onclick="toggleDarkMode()">
+  &#9680; 
+</div>
+
+        
+
+<main>
+	
+<aside class="toc">
+  <script src="/js/toc.js"></script>
+  <div id="tocContainer">
+    <div id="tocTitle">
+      &#9776; 
+    </div>
+    <div id="tocCollapsible">
+      <nav id="TableOfContents">
+  <ul>
+    <li>
+      <ul>
+        <li><a href="#why-i-decided-to-make-this-blog">Why I decided to make this blog</a></li>
+        <li><a href="#how-the-blog-is-made">How the blog is made</a>
+          <ul>
+            <li><a href="#hugo-was-the-perfect-fit-for-the-task">HUGO was the perfect fit for the task</a></li>
+            <li><a href="#the-hosting-choice">The hosting choice</a></li>
+            <li><a href="#why-the-dotted-images">Why the dotted images?</a></li>
+          </ul>
+        </li>
+        <li><a href="#going-forward">Going forward</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+    </div>
+  </div>
+</aside>
+
+
+
+        <div class="post">
+		<div class="post-info">
+    <span>Written</span>
+    
+        
+        <span>on&nbsp;</span><time datetime="2022-09-12 14:26:30 &#43;0200 CEST">September 12, 2022</time>
+</div>
+
+<div class="post-info">
+    <span>
+    Tags: 
+    
+    
+    
+    <a href="http://localhost:1313/tags/hugo">HUGO</a>
+    
+    
+    , <a href="http://localhost:1313/tags/projects">projects</a>
+    
+    
+        
+    </span>
+</div>
+
+
+		<h1 class="post-title">About this blog</h1>
+<div class="post-line"></div>
+
+		
+
+		<h2 id="why-i-decided-to-make-this-blog">Why I decided to make this blog</h2>
+<p>The web from the 90&rsquo;s always fascinated me, even if I could not experience it first person (I was still sucking my thumb at the time).
+I love the idea of a patchwork of cobbled together personal websites, it seems like a modern-day wild west (I am aware of the dark web, but that&rsquo;s not as accessible and I&rsquo;d rather stay out of any combination-of-letters-agency&rsquo;s list) compared to the modern monoliths that dominate online traffic.<br>
+The indie web was a cool thing to think about, something that I wanted to be a part of. If not for the sheer commodity of directly owning my content, just for the flair of it.</p>
+<p>These are the circumstances that made me take the decision of building my personal blog, without previuos experience in anything web-related. It wasn&rsquo;t a smart move, but in this case a decision taken on a whim has had very satisfying results.</p>
+<h2 id="how-the-blog-is-made">How the blog is made</h2>
+<p>The first thing I had to learn was how a website worked. I had a vague idea of front-end and back-end dynamics, but I was clueless about hosting, deploying, and actually building a website.</p>
+<p>The first impact was quite frightening to be honest; I had underestimated the complexity of the web, and after a couple hours investigating databases, stacks and web services, it was clear I was underequipped for the task.<br>
+Corners had to be cut, hopefully not too many.</p>
+<p>I needed an easy solution for a difficult problem, which usually comes with not solving the problem at all. Fortunately, while browsing youtube (something I started this project with the specific purpose of doing <em>less</em> of) my attention was caught by a <a href="https://www.youtube.com/watch?v=ZFL09qhKi5I">video</a> recently posted by Luke Smith, a libre-web evangelist and the creator of <a href="https://landchad.net/">landchad.net</a>. He converted me almost instantly to HUGO.</p>
+<h3 id="hugo-was-the-perfect-fit-for-the-task">HUGO was the perfect fit for the task</h3>
+<p>Being an extremely fast static website generator aimed at content generation and management.
+Generating a static website solves an incredible amount of problems that a newbie like me would have encountered trying to manage and deploy a dynamic website, some of these are:</p>
+<ol>
+<li>A static website does <strong>not need a database</strong>: since all the content is stored in a folder structure. This means learning yet another language like php along with database theory is not necessary.</li>
+<li>A static website is <strong>inherently more secure</strong>: no backend and no server-side processing means almost no point of contact for attacks. Did I say no database?</li>
+<li>A static website is <strong>faster</strong>: when you visit this website, all the server has to do is serve you some files, no computing time.</li>
+</ol>
+<p><em>But most importantly</em></p>
+<ol start="4">
+<li>It&rsquo;s <strong>cheap a.f.</strong>: At the moment I can host the entirety of the website on GitHub pages at the very convenient price of <em>free</em>, and while I bought the domain, keeping the default one was also an option.</li>
+</ol>
+<p>Static websites do have some disadvantages. Usually a dynamic website has some tipe of CMS(content management system) that makes creating and uploading content easier, all the content in a static website has to be hardcoded.<br>
+This disadvantage is negated by the ease of use HUGO brings along. All content only needs to be written in a markdown file, saved in a folder and then compiled with the <code>hugo</code> command. Done.
+Another disadvantage of sort is the lack of interaction the user have with a static website. No clicky buttons, no pop-ups, no likes, no comments, no autoplaying videos and machine learning enhanced &ldquo;you may like&rdquo; recommendations.<br>
+But the only interaction I want is the reader (you) eyeballs on my text, which has been working out fine with a static.</p>
+<p>The web is chock full of HUGO tutorials, so I will not bother you with yet another one. I have just one piece of advice if you&rsquo;re installing on linux: use <a href="https://snapcraft.io/install/hugo/ubuntu">Snap</a>, source installing does not work and the apt install method has older version at the time of writing.</p>
+<p>HUGO, among other things, lets you install user-made themes. In this way it&rsquo;s possible to avoid styling the website altogeter while mantaining a decent grade of polish if you&rsquo;re not creatively inclined.
+In my case I used the wonderful <a href="https://github.com/EmielH/tale-hugo">tale</a> theme with some adaptations resulting from personal preferences.</p>
+<h3 id="the-hosting-choice">The hosting choice</h3>
+<p>As stated previously I opted for hosting my blog on GitHub Pages, as it has a <em>lot</em> of advantages compared to other hosting providers like amazon aws or google.</p>
+<p>First of all, hosting a website on Pages is free, that will always be a plus for a student without budget.<br>
+Secondly, by enabling <a href="https://gohugo.io/hosting-and-deployment/hosting-on-github/">Actions</a> on the repository that holds the blog file, it is possible to create a separate branch which gets updated at every push; modifying the content of the served website almost instantly and without any further command from the user.</p>
+<p>I paired the Pages blog with my personal domain, after making sure that domain privacy was enabled. For those that are unaware, all personal details given while registering a domain are available in a whois registrar; you should make sure that your provider and specific extension offer domain privacy protection.<br>
+(some extensions, the ones of most european countries included, make the sharing of personal information mandatory by law)<br>
+My advice: stick with <strong>.com</strong> if you can.</p>
+<h3 id="why-the-dotted-images">Why the dotted images?</h3>
+<p>Before deciding to build a blog, I was fascinated by <a href="https://solar.lowtechmagazine.com/about.html">LOW←TECH MAGAZINE</a> method of reducing the image size without reducing actual dimensions using dithering. Yes, there are a lot of more modern ways to reduce image size without losses, but I think this method adds a lot to the aesthetics of the blog.
+Just look at this.</p>
+<p>
+  <figure>
+    <img src="/writings/about_this_blog/bear_at_table.png" alt="bear sitting at table">
+    <em><figcaption>bear sitting at table (how cute!)</figcaption></em>
+  </figure>
+</p>
+<p>There are different ways of generating a dithered image, it really depends on your requirements. You can use a browser generator like <a href="https://doodad.dev/dither-me-this/">this one</a> or <a href="https://ditherit.com/">this other one</a>; but if you need to deeply tweak settings in order to get something more tailored, I recommend a command line tool like <a href="https://github.com/makeworld-the-better-one/didder">didder</a>.</p>
+<h2 id="going-forward">Going forward</h2>
+<p>I plan on posting occasionally various content that ranges from short shitposts to more serious stuff on various kind of topics. At the same time this blog will help me keep track of stuff I liked, stuff I learned and finally, my writing proficiency.</p>
+<p>If you liked this post, have some comments to make or anything in-between, you can <a href="http://localhost:1313/contact-me/" title="contact me">contact me</a>.</p>
+
+
+		
+
+	</div>
+
+	<div class="pagination">
+		<a href="/posts/still_nothing/" class="left arrow">&#8592;</a>
+		<a href="/posts/rosdebug/" class="right arrow">&#8594;</a>
+
+		<a href="#" class="top">Top</a>
+	</div>
+</main>
+
+
+        		<footer>
+			
+			<span>
+			&copy; <time datetime="2024-07-24 23:17:16.177339141 &#43;0200 CEST m=&#43;399.592986745">2024</time> . Made with <a href='https://gohugo.io'>Hugo</a> using a modified version of the <a href='https://github.com/EmielH/tale-hugo/'>Tale</a> theme.
+			</span>
+		</footer>
+
+    </body>
+</html>

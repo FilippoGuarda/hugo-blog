@@ -4,22 +4,17 @@
     <title>ROS on Filippo Guarda</title>
     <link>http://filippoguarda.com/tags/ros/</link>
     <description>Recent content in ROS on Filippo Guarda</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</copyright>
-    <lastBuildDate>Tue, 20 Sep 2022 15:56:25 +0200</lastBuildDate><atom:link href="http://filippoguarda.com/tags/ros/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 20 Sep 2022 15:56:25 +0200</lastBuildDate>
+    <atom:link href="http://filippoguarda.com/tags/ros/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>So you are having problem with ROS</title>
       <link>http://filippoguarda.com/posts/rosdebug/</link>
       <pubDate>Tue, 20 Sep 2022 15:56:25 +0200</pubDate>
-      
       <guid>http://filippoguarda.com/posts/rosdebug/</guid>
-      <description>Do not worry, we all have been there.
-Maybe the command roslaunch + TAB is not listing your custom .launch file?
-Maybe it&amp;rsquo;s rostopic list that still, after checking ten times that the .msg definitions are correct, refuses to acknowledge that there are new types of messages available.
-You can&amp;rsquo;t rosrun your node, but the cmake configuration of your package is there, as well as the .xml file.
-Catkin also builds without errors so why the hell is this not working?</description>
+      <description>Do not worry, we all have been there.&#xA;Maybe the command roslaunch + TAB is not listing your custom .launch file?&#xA;Maybe it&amp;rsquo;s rostopic list that still, after checking ten times that the .msg definitions are correct, refuses to acknowledge that there are new types of messages available.&#xA;You can&amp;rsquo;t rosrun your node, but the cmake configuration of your package is there, as well as the .xml file.&#xA;Catkin also builds without errors so why the hell is this not working?</description>
     </item>
-    
   </channel>
 </rss>
