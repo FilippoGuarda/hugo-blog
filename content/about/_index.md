@@ -10,4 +10,4 @@ I am Filippo Guarda, an automation engineer and a PhD student in systems enginee
 In my academic and working life I acquired experience with several tools, programming languages and frameworks, some of these are: **ROS/ROS2**, **Python**, **C++** and **Open3D**.  
 
 I made this little static blog to share some of my thoughts and to present myself and my work.
-Have fun!.
+Have fun!

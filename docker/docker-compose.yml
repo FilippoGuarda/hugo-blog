@@ -1,0 +1,14 @@
+
+services:
+  hugo:
+    container_name: hugo-blog
+    build:
+      context: ../
+      dockerfile: docker/hugo.dockerfile
+    tty: true
+    volumes:
+      - ../:/hugo-blog
+    working_dir: /hugo-blog
+    command: ["server", "-w", "--bind", "0.0.0.0"]
+    ports:
+      - "1313:1313"

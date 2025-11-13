@@ -2,46 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Welcome on Filippo Guarda</title>
-    <link>http://filippoguarda.com/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content in Welcome on Filippo Guarda</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</copyright>
     <lastBuildDate>Wed, 24 Jul 2024 22:05:39 +0200</lastBuildDate>
-    <atom:link href="http://filippoguarda.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>On shrinks and friends</title>
-      <link>http://filippoguarda.com/posts/on_friends/friends/</link>
+      <link>http://localhost:1313/posts/on_friends/friends/</link>
       <pubDate>Wed, 24 Jul 2024 22:05:39 +0200</pubDate>
-      <guid>http://filippoguarda.com/posts/on_friends/friends/</guid>
+      <guid>http://localhost:1313/posts/on_friends/friends/</guid>
       <description>Some people need a real friend more than a therapist, but real friends are hard work.</description>
     </item>
     <item>
       <title>So you are having problem with ROS</title>
-      <link>http://filippoguarda.com/posts/rosdebug/</link>
+      <link>http://localhost:1313/posts/rosdebug/</link>
       <pubDate>Tue, 20 Sep 2022 15:56:25 +0200</pubDate>
-      <guid>http://filippoguarda.com/posts/rosdebug/</guid>
-      <description>Do not worry, we all have been there.&#xA;Maybe the command roslaunch + TAB is not listing your custom .launch file?&#xA;Maybe it&amp;rsquo;s rostopic list that still, after checking ten times that the .msg definitions are correct, refuses to acknowledge that there are new types of messages available.&#xA;You can&amp;rsquo;t rosrun your node, but the cmake configuration of your package is there, as well as the .xml file.&#xA;Catkin also builds without errors so why the hell is this not working?</description>
+      <guid>http://localhost:1313/posts/rosdebug/</guid>
+      <description>&lt;p&gt;Do not worry, we all have been there.&lt;/p&gt;&#xA;&lt;p&gt;Maybe the command &lt;code&gt;roslaunch&lt;/code&gt; + TAB is not listing your custom &lt;code&gt;.launch&lt;/code&gt; file?&lt;br&gt;&#xA;Maybe it&amp;rsquo;s &lt;code&gt;rostopic list&lt;/code&gt; that still, after checking ten times that the &lt;code&gt;.msg&lt;/code&gt; definitions are correct, refuses to acknowledge that there are new types of messages available.&lt;br&gt;&#xA;You can&amp;rsquo;t &lt;code&gt;rosrun&lt;/code&gt; your node, but the cmake configuration of your package is there, as well as the &lt;code&gt;.xml&lt;/code&gt; file.&lt;br&gt;&#xA;Catkin also builds without errors so &lt;em&gt;why the hell&lt;/em&gt; is this not working?&lt;/p&gt;</description>
     </item>
     <item>
       <title>About this blog</title>
-      <link>http://filippoguarda.com/writing/about_this_blog/about_this_blog/</link>
+      <link>http://localhost:1313/writing/about_this_blog/about_this_blog/</link>
       <pubDate>Mon, 12 Sep 2022 14:26:30 +0200</pubDate>
-      <guid>http://filippoguarda.com/writing/about_this_blog/about_this_blog/</guid>
+      <guid>http://localhost:1313/writing/about_this_blog/about_this_blog/</guid>
       <description>Why I created this blog, and how</description>
     </item>
     <item>
       <title>Still_nothing</title>
-      <link>http://filippoguarda.com/posts/still_nothing/</link>
+      <link>http://localhost:1313/posts/still_nothing/</link>
       <pubDate>Mon, 01 Aug 2022 02:24:40 +0200</pubDate>
-      <guid>http://filippoguarda.com/posts/still_nothing/</guid>
-      <description>Maybe I&amp;rsquo;m too lazy, maybe I&amp;rsquo;m too overburdened with work, but this section is still empty.</description>
+      <guid>http://localhost:1313/posts/still_nothing/</guid>
+      <description>&lt;p&gt;Maybe I&amp;rsquo;m too lazy, maybe I&amp;rsquo;m too overburdened with work, but this section is still empty.&lt;/p&gt;</description>
     </item>
     <item>
       <title>First</title>
-      <link>http://filippoguarda.com/writing/first_post/first/</link>
+      <link>http://localhost:1313/writing/first_post/first/</link>
       <pubDate>Sat, 30 Jul 2022 20:42:38 +0200</pubDate>
-      <guid>http://filippoguarda.com/writing/first_post/first/</guid>
+      <guid>http://localhost:1313/writing/first_post/first/</guid>
       <description>first writing of the bunch</description>
     </item>
   </channel>
