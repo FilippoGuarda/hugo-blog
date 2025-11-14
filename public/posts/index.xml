@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Filippo Guarda</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>http://filippoguarda.com/posts/</link>
     <description>Recent content in Posts on Filippo Guarda</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</copyright>
     <lastBuildDate>Thu, 13 Nov 2025 21:19:01 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://filippoguarda.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dithering</title>
-      <link>http://localhost:1313/posts/dithering/</link>
+      <link>http://filippoguarda.com/posts/dithering/</link>
       <pubDate>Thu, 13 Nov 2025 21:19:01 +0000</pubDate>
-      <guid>http://localhost:1313/posts/dithering/</guid>
+      <guid>http://filippoguarda.com/posts/dithering/</guid>
       <description>Easy and infuriatingly difficult should not be adjectives for the same framework but here we are</description>
     </item>
     <item>
       <title>On shrinks and friends</title>
-      <link>http://localhost:1313/posts/on_friends/friends/</link>
+      <link>http://filippoguarda.com/posts/on_friends/friends/</link>
       <pubDate>Wed, 24 Jul 2024 22:05:39 +0200</pubDate>
-      <guid>http://localhost:1313/posts/on_friends/friends/</guid>
+      <guid>http://filippoguarda.com/posts/on_friends/friends/</guid>
       <description>Some people need a real friend more than a therapist, but real friends are hard work.</description>
     </item>
     <item>
       <title>So you are having problem with ROS</title>
-      <link>http://localhost:1313/posts/rosdebug/</link>
+      <link>http://filippoguarda.com/posts/rosdebug/</link>
       <pubDate>Tue, 20 Sep 2022 15:56:25 +0200</pubDate>
-      <guid>http://localhost:1313/posts/rosdebug/</guid>
+      <guid>http://filippoguarda.com/posts/rosdebug/</guid>
       <description>&lt;p&gt;Do not worry, we all have been there.&lt;/p&gt;&#xA;&lt;p&gt;Maybe the command &lt;code&gt;roslaunch&lt;/code&gt; + TAB is not listing your custom &lt;code&gt;.launch&lt;/code&gt; file?&lt;br&gt;&#xA;Maybe it&amp;rsquo;s &lt;code&gt;rostopic list&lt;/code&gt; that still, after checking ten times that the &lt;code&gt;.msg&lt;/code&gt; definitions are correct, refuses to acknowledge that there are new types of messages available.&lt;br&gt;&#xA;You can&amp;rsquo;t &lt;code&gt;rosrun&lt;/code&gt; your node, but the cmake configuration of your package is there, as well as the &lt;code&gt;.xml&lt;/code&gt; file.&lt;br&gt;&#xA;Catkin also builds without errors so &lt;em&gt;why the hell&lt;/em&gt; is this not working?&lt;/p&gt;</description>
     </item>
     <item>
       <title>Still_nothing</title>
-      <link>http://localhost:1313/posts/still_nothing/</link>
+      <link>http://filippoguarda.com/posts/still_nothing/</link>
       <pubDate>Mon, 01 Aug 2022 02:24:40 +0200</pubDate>
-      <guid>http://localhost:1313/posts/still_nothing/</guid>
+      <guid>http://filippoguarda.com/posts/still_nothing/</guid>
       <description>&lt;p&gt;Maybe I&amp;rsquo;m too lazy, maybe I&amp;rsquo;m too overburdened with work, but this section is still empty.&lt;/p&gt;</description>
     </item>
   </channel>

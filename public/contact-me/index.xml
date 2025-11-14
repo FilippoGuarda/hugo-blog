@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Contacts on Filippo Guarda</title>
-    <link>http://localhost:1313/contact-me/</link>
+    <link>http://filippoguarda.com/contact-me/</link>
     <description>Recent content in Contacts on Filippo Guarda</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</copyright>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="http://localhost:1313/contact-me/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://filippoguarda.com/contact-me/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
