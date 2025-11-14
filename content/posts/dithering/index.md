@@ -20,7 +20,6 @@ Now, I _could_ keep the classic black and white default, but I opted for a binni
 
 ![here is an example](forest.jpg "A nice forest")
 
-
 Admittedly, it does not work too well on bright images, but it's not too bad for a full 16 colors (including black and white).
 
 ![another example](rainbow.jpg "Like this rainbow for example")
