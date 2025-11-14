@@ -28,5 +28,11 @@ sectionPagesMenu = 'main'
     endLevel = 3
     ordered = false
     startLevel = 1
+  [markup.goldmark]
+    [markup.goldmark.parser]
+      wrapStandAloneImageWithinParagraph = false
+    [markup.goldmark.renderHooks]
+      [markup.goldmark.renderHooks.image]
+        useEmbedded = 'auto'
 [params.author]
   name = "Filippo Guarda"
