@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en-us">
-    <head>
+    <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
 		
 		<meta charset="UTF-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -93,18 +93,23 @@
 
 		
 
-		<h1 id="automagically-dithering-with-hugo-render-hooks">Automagically dithering with Hugo render hooks</h1>
+		<h1 id="automagically-dithering-images-with-hugo-render-hooks">Automagically dithering images with Hugo render hooks</h1>
 <p>You have no idea how frustrating it was to dither this single f***ing image.
 But now the next whatever ones it will be will do that in <em>zero</em> time.</p>
-<p>I selected a slice of muted colors that I am using to bin all colors in an image, I wanted that retro look I found in old manuals from the 60&rsquo;s.</p>
+<p>I wanted that retro look I found in old manuals from the 60’s, but without the hassle of manually applying all these effects to each image I wanted to add.</p>
+<p>After quite a bit of research I found out that it is quite easy to do with a somewhat recent hugo update that introduced <a href="https://gohugo.io/functions/images/dither/">dithering</a> as a native function.</p>
+<p>Now, I <em>could</em> keep the classic black and white default, but I opted for a binning palette of muted colors, which I handpicked to my personal liking.</p>
+<h2 id="the-result">The result:</h2>
 <figure>
-        <img src="/posts/dithering/forest_hu_4c7561fb081b6dae.png" alt="here is an example">
-        <em><figcaption>This forest</figcaption></em>
-      </figure><p>Admittedly, it does not work too well on bright images, but it&rsquo;s not too bad for a full 16 colors (including black and white).</p>
+    <img src="/posts/dithering/forest_hu_4c7561fb081b6dae.png" 
+    style="max-width: 100%; height: auto; border: none;"
+    alt="here is an example">
+    <em><figcaption>A nice forest</figcaption></em><p>Admittedly, it does not work too well on bright images, but it&rsquo;s not too bad for a full 16 colors (including black and white).</p>
 <figure>
-        <img src="/posts/dithering/rainbow_hu_b645e3428cb0e6f9.png" alt="another example">
-        <em><figcaption>Like this rainbow for example</figcaption></em>
-      </figure>
+    <img src="/posts/dithering/rainbow_hu_b645e3428cb0e6f9.png" 
+    style="max-width: 100%; height: auto; border: none;"
+    alt="another example">
+    <em><figcaption>Like this rainbow for example</figcaption></em>
 
 		
 
@@ -121,7 +126,7 @@ But now the next whatever ones it will be will do that in <em>zero</em> time.</p
         		<footer>
 			
 			<span>
-			&copy; <time datetime="2025-11-14 22:10:25.307705401 &#43;0000 UTC m=&#43;0.348781907">2025</time> . Made with <a href='https://gohugo.io'>Hugo</a> using a modified version of the <a href='https://github.com/EmielH/tale-hugo/'>Tale</a> theme.
+			&copy; <time datetime="2025-11-14 22:21:23.758007621 &#43;0000 UTC m=&#43;4181.718101278">2025</time> . Made with <a href='https://gohugo.io'>Hugo</a> using a modified version of the <a href='https://github.com/EmielH/tale-hugo/'>Tale</a> theme.
 			</span>
 		</footer>
 
