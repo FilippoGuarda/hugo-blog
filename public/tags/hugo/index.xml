@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>HUGO on Filippo Guarda</title>
-    <link>http://localhost:1313/tags/hugo/</link>
+    <link>http://filippoguarda.com/tags/hugo/</link>
     <description>Recent content in HUGO on Filippo Guarda</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</copyright>
     <lastBuildDate>Mon, 12 Sep 2022 14:26:30 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://filippoguarda.com/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About this blog</title>
-      <link>http://localhost:1313/writing/about_this_blog/about_this_blog/</link>
+      <link>http://filippoguarda.com/writing/about_this_blog/about_this_blog/</link>
       <pubDate>Mon, 12 Sep 2022 14:26:30 +0200</pubDate>
-      <guid>http://localhost:1313/writing/about_this_blog/about_this_blog/</guid>
+      <guid>http://filippoguarda.com/writing/about_this_blog/about_this_blog/</guid>
       <description>Why I created this blog, and how</description>
     </item>
   </channel>
