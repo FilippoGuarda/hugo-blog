@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "style.css",
-	"sourceRoot": "/home/watch/hugo-blog",
+	"sourceRoot": "/hugo-blog",
 	"sources": [
 		"themes/tale/assets/scss/tale.scss",
 		"themes/tale/assets/scss/tale/_variables.scss",
