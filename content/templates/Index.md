@@ -1,6 +1,6 @@
 ---
 title:
-date: "{{date}} {{time}}"
+date: "{{date}}T{{time}}Z"
 draft: false
 summary:
 ---
