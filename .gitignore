@@ -14,4 +14,4 @@
 # vendor/
 .hugo_build.lock
 .obsidian/
-#content/template/
+content/templates/
