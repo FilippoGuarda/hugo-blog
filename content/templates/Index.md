@@ -1,6 +1,6 @@
 ---
 title:
-date: {{date}}T{{time}}Z+01:00
+date: 
 draft: false
 summary:
 ---
