@@ -6,6 +6,7 @@ theme = 'tale'
 sectionPagesMenu = 'main'
 [outputs]
   home = ["HTML", "RSS"]
+  section = ["HTML", "RSS"]
 [menu]
   [[menu.main]]
     identifier = "about"
@@ -38,3 +39,7 @@ sectionPagesMenu = 'main'
         useEmbedded = 'auto'
 [params.author]
   name = "Filippo Guarda"
+[[params.social]]
+  title = "rss"
+  icon = "ti-rss"  # Use a theme icon (e.g., Themify Icons)
+  link = "https://yourdomain.com/index.xml"
