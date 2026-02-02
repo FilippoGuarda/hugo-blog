@@ -4,6 +4,8 @@ languageCode = 'en-us'
 title = 'Filippo Guarda'
 theme = 'tale'
 sectionPagesMenu = 'main'
+[outputs]
+  home = ["HTML", "RSS"]
 [menu]
   [[menu.main]]
     identifier = "about"

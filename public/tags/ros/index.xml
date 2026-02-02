@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ROS on Filippo Guarda</title>
-    <link>http://filippoguarda.com/tags/ros/</link>
+    <link>http://localhost:1313/tags/ros/</link>
     <description>Recent content in ROS on Filippo Guarda</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</copyright>
     <lastBuildDate>Tue, 20 Sep 2022 15:56:25 +0200</lastBuildDate>
-    <atom:link href="http://filippoguarda.com/tags/ros/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/ros/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>So you are having problem with ROS</title>
-      <link>http://filippoguarda.com/posts/rosdebug/</link>
+      <link>http://localhost:1313/posts/rosdebug/</link>
       <pubDate>Tue, 20 Sep 2022 15:56:25 +0200</pubDate>
-      <guid>http://filippoguarda.com/posts/rosdebug/</guid>
+      <guid>http://localhost:1313/posts/rosdebug/</guid>
       <description>&lt;p&gt;Do not worry, we all have been there.&lt;/p&gt;&#xA;&lt;p&gt;Maybe the command &lt;code&gt;roslaunch&lt;/code&gt; + TAB is not listing your custom &lt;code&gt;.launch&lt;/code&gt; file?&lt;br&gt;&#xA;Maybe it&amp;rsquo;s &lt;code&gt;rostopic list&lt;/code&gt; that still, after checking ten times that the &lt;code&gt;.msg&lt;/code&gt; definitions are correct, refuses to acknowledge that there are new types of messages available.&lt;br&gt;&#xA;You can&amp;rsquo;t &lt;code&gt;rosrun&lt;/code&gt; your node, but the cmake configuration of your package is there, as well as the &lt;code&gt;.xml&lt;/code&gt; file.&lt;br&gt;&#xA;Catkin also builds without errors so &lt;em&gt;why the hell&lt;/em&gt; is this not working?&lt;/p&gt;</description>
     </item>
   </channel>
