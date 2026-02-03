@@ -7,10 +7,10 @@ summary: "Why I picked it up and how it is working for me"
 
 As the title states, this is not the first time I am doing this.
 
-The first time I really got into meditation was during high school, in a last ditch attempt to avoid very permanent solutions to what a psychiatrist later told me was probably depression.
-School in italy is already really difficult for normal kids (1 IN 5 teens [report self harm or suicidal ideation](https://www.insalutenews.it/in-salute/autolesionismo-e-suicidio-adolescenziale-colpisce-1-giovane-su-5-serve-una-cultura-del-dialogo/)). Add in very religious parents and you're left with a not particularly appealing shit sandwitch you have to deal with your own.
+The first time I really got into meditation was during high school, in a last ditch attempt to avoid a permanent solution to what a psychiatrist later told me was probably depression.
+School in italy is already really difficult for normal kids (1 IN 5 teens [report self harm or suicidal ideation](https://www.insalutenews.it/in-salute/autolesionismo-e-suicidio-adolescenziale-colpisce-1-giovane-su-5-serve-una-cultura-del-dialogo/)). Add in very religious parents and you're left with a not particularly appealing shit sandwitch you have to deal with on your own.
 
-It worked for a while.
+Meditating helped me detach from my situation, analyze how I felt, and control the worst emotions. It did not solve the underlying problems, but sometimes those cannot be solved.
 
 Then I started university, went living on my own, got distracted by life and stopped.  
 I was not in the same head space as I was at 16: yes, I still joked about killing myself every now and then but I wasn't really _thinking_ about doing it.
@@ -18,12 +18,16 @@ I thought I didn't really need it anymore, and in a certain sense it was true.
 
 ## A new reason
 
-This time I don't need meditation to deal with anxiety and emotions. Sure, as of this week the Epstein files got released and we found out that the world is controlled by a group of pedophile chabad jews and that basically all conspiracy theories are real. But on the grand scheme of things it's probably just another fun fact that will be wiped out of mainstream history with a little bit of money and a little bit of bloodshed, I digress.  
+This time I don't need meditation to deal with anxiety and emotions.  
+Sure, as of this week the Epstein files got released and we found out that the world is controlled by a group of pedophile chabad jews and that basically all conspiracy theories are real.  
+But on the grand scheme of things it's probably just another fun fact that will be wiped out of mainstream history with a little bit of money and a little bit of bloodshed, I digress.  
 
 No, this time the problem is attention. In the last ten years I got addicted to doomscrolling, and probably you are addicted too my dear reader.
 
 >    Do I even have readers? I won't be assed to implement trackers to jack off my ego, but if you really want to let me know send me a mail lol.
 
+We are force fed and endless stream of AI slop, influencer product placements and end-of-the-world trumpet sounds. My hypothesis is that millions of years of evolutions did not take into account that the colorful images moving really fast might not be our next meal. Which is why we don't have any protection mechanisms from dopamine hijacking.  
+I started scrolling, and it got really difficult not to.  
 I read less, practice less hobbies, watch less films, even anime sometimes feels too much work after spending three hours fingering the screen like a monkey that has just found out about opposable thumbs and their implications in a post-industrialist landscape dominated by tactile interfaces.
 
 I started meditating again because I missed that sensation of stillness behind your eyes, when thought condenses in something that, even if impossible to hold, can still be collected and observed while it drips through your hands.
