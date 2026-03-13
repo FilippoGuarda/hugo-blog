@@ -14,8 +14,9 @@ I started working on this seriously just five months ago. It's incredible how mu
 # Okay but what it do brodah?
 
 This is a heavily upgraded extended-SPADES stack. Fully automated and optimised from task request to planning, optimization and collision avoidance.
+It uses topological map compression (also made by yours truly) to reduce search space when computing cost matrices for task allocation.
 State of the art and all those mandatory keywords.
 
-Here, little pictah:
+Here, little pictcha:
 
 ![sneak peek](20260313_153849.jpg)
