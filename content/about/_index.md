@@ -3,7 +3,11 @@ title: "About Me"
 date: 2022-07-30T22:44:41+02:00
 draft: false
 ---
-![author's picture](/about/dither_profile.png)
+
+![Me](profile_green.png "")
+
+
+
 
 I am Filippo Guarda, an automation engineer and a PhD student in systems engineering with a passion for robotics, stand-up comedy and outdoor activities.
 
