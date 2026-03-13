@@ -2,7 +2,7 @@
 title: "A fleet in concert"
 date: 2026-03-13T15:43:41+01:00
 draft: false
-summary:"Sneak peek at my doctoral thesis"
+summary: "Sneak peek at my doctoral thesis"
 ---
 
 This is it.
